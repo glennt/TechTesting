@@ -19,7 +19,7 @@ import com.amazonaws.services.s3.model.ObjectMetadata;
 import com.amazonaws.services.s3.model.PutObjectRequest;
 import com.amazonaws.services.s3.model.S3ObjectSummary;
 
-/* Comment !!!!dsafsd! */
+/* Comment !!!!dsafasdfasffsdsd! */
 public class S3Tests {
 	
 	private static AmazonS3 s3;
