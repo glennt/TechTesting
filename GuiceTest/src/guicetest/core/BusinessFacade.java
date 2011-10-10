@@ -7,6 +7,9 @@ import com.google.inject.Injector;
 import guicetest.module.TestModule;
 import guicetest.service.Service;
 
+/*
+ * Dis is a comment
+ */
 public class BusinessFacade {
 
 	@Inject
