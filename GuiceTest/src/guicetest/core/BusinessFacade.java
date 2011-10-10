@@ -12,7 +12,6 @@ import guicetest.service.Service;
  */
 public class BusinessFacade {
 
-	@Inject
 	private Service service;
 
 	public Service getService() {
